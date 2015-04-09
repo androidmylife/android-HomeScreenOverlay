@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Home Screen Overlay</string>
+    <string name="app_start">Start</string>
+    <string name="app_stop">Stop</string>
+
+</resources>
